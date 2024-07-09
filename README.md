@@ -1,4 +1,4 @@
-# ObesityMoralityIndex
+# ObesityMortalityIndex
 This project predicts obesity-related mortality rates based on other diseases using a linear regression model. The application is built with Streamlit for the frontend interface.
 
 ## Features
