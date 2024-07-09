@@ -27,10 +27,10 @@ This project predicts obesity-related mortality rates based on other diseases us
 
 ## Output Screenshot:
 1. Actual vs Predicted
-<img width="828" alt="Screenshot 2024-07-09 at 1 03 54 PM" src="https://github.com/Dipenpatel3/ObesityMoralityIndex/assets/60914088/74926385-8162-4ea9-887f-150c6c1b8937">
+<img width="804" alt="Screenshot 2024-07-09 at 4 50 12 PM" src="https://github.com/Dipenpatel3/Obesity-Mortality-Index/assets/60914088/87c21c5f-5e05-49f6-b540-b6dfa58ba3b9">
 
 2. For a Country (Obesity vs Blood Pressure)
-<img width="865" alt="Screenshot 2024-07-09 at 1 05 09 PM" src="https://github.com/Dipenpatel3/ObesityMoralityIndex/assets/60914088/d79137d9-c0d3-4a65-98b0-7c8883373382">
+<img width="734" alt="Screenshot 2024-07-09 at 4 50 45 PM" src="https://github.com/Dipenpatel3/Obesity-Mortality-Index/assets/60914088/162bff52-12ff-4e78-9178-e807ab9f9093">
 
 ## Clone the repository:
 git clone https://github.com/your-username/obesity-mortality-index.git
